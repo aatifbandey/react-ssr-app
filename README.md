@@ -1,6 +1,6 @@
 # Git Inspector
 **Version 1.0**
-- A SSR react app with redux. On backend we have node, and koa.
+- A full stack SSR react app with redux. On backend we have node, and koa.
 
 # Folder structure
 ```sh
